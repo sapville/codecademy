@@ -12,5 +12,6 @@ function someFunction() {
   
   new Output("Something").show();
   new Output("Something Else").show();
+  new Output('Something Weird').show();
    
 }
